@@ -5,3 +5,6 @@
 *.cmp
 *.out
 *.vscode
+build/
+*.idea/
+*.gradle/
